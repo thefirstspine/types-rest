@@ -7,6 +7,7 @@ export * from './avatar.interface';
 export * from './base-entity.interface';
 export * from './card-coords.interface';
 export * from './card-side-stat.interface';
+export * from './card-stat.interface';
 export * from './card.interface';
 export * from './cycle.interface';
 export * from './deck.interface';
