@@ -1,7 +1,7 @@
 import { ILocalized } from "./localized.interface";
 
 /**
- * Repreents a base entity in the REST service.
+ * Represents a base entity in the REST service.
  * Each entity has an ID, a name and a description as a minimal setup.
  */
 export interface IBaseEntity {
