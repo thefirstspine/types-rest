@@ -1,7 +1,6 @@
+# 🗃 types-rest / @thefirstspine/types-rest
 
-# Types definition for REST resources
-
-TBD
+Types definition for REST resources.
 
 ## Install
 
