@@ -23,6 +23,13 @@ export interface IGameType extends IBaseEntity {
   origins: string[];
 
   /**
+   * The base setup of the game type. Each index will be "x-y".
+   */
+  setup: {
+    [key: string]: ICard
+  };
+
+  /**
    * All the playable space.
    * @deprecated
    */
