@@ -1,6 +1,6 @@
 {
   "name": "@thefirstspine/types-rest",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Types definition for REST resources.",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
