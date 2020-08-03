@@ -15,14 +15,4 @@ export interface ICycle extends IBaseEntity {
    * Timestamp to.
    */
   timestampTo: number;
-
-  /**
-   * The rewards to winner of the tournament should have.
-   */
-  rewardsForWinner: ILoot[];
-
-  /**
-   * The rewards each participant of the tournament should have.
-   */
-  rewardsForPlayers: ILoot[];
 }
