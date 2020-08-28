@@ -1,5 +1,4 @@
 import { IBaseEntity } from "./base-entity.interface";
-import { ILoot } from "./loot.interface";
 
 /**
  * Represents a cycle in The First Spine.

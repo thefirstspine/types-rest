@@ -1,6 +1,5 @@
 import { IBaseEntity } from "./base-entity.interface";
 import { ICardCoords } from "./card-coords.interface";
-import { ILoot } from "./loot.interface";
 import { ICard } from "./card.interface";
 
 /**
