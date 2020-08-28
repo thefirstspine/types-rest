@@ -15,6 +15,7 @@ export * from './game-type.interface';
 export * from './globals';
 export * from './localized.interface';
 export * from './loot.interface';
+export * from './quest.interface';
 export * from './rank.interface';
 export * from './shop-item.interface';
 export * from './triumph.interface';
