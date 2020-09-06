@@ -14,7 +14,7 @@ export interface IShopItem extends IBaseEntity {
   /**
    * The price of the item.
    */
-  price: {
+  price: Array<{
     /**
      * The number of the price.
      */
@@ -26,7 +26,7 @@ export interface IShopItem extends IBaseEntity {
      * Other currencies represents an item owned by the player.
      */
     currency: 'eur'|'shards'|string,
-  };
+  }>;
 
   /**
    * The items the shop item contains. These loots will be rewarded each purchase.
