@@ -9,7 +9,6 @@ export * from './card-coords.interface';
 export * from './card-side-stat.interface';
 export * from './card-stat.interface';
 export * from './card.interface';
-export * from './cycle.interface';
 export * from './deck.interface';
 export * from './game-type.interface';
 export * from './globals';
