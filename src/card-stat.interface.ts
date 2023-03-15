@@ -34,4 +34,9 @@ export interface ICardStat {
    * The capacities the card has.
    */
   capacities?: cardCapacity[];
+
+  /**
+   * The special effects of the cards.
+   */
+  effects?: string[];
 }
